@@ -1,0 +1,10 @@
+C:\Users\Mario Josue CR\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Git Proyecto\Proyecto_Tarea\Proyecto_Tarea\obj\Debug\Proyecto_Tarea.csprojAssemblyReference.cache
+C:\Users\Mario Josue CR\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Git Proyecto\Proyecto_Tarea\Proyecto_Tarea\obj\Debug\Proyecto_Tarea.Form1.resources
+C:\Users\Mario Josue CR\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Git Proyecto\Proyecto_Tarea\Proyecto_Tarea\obj\Debug\Proyecto_Tarea.Properties.Resources.resources
+C:\Users\Mario Josue CR\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Git Proyecto\Proyecto_Tarea\Proyecto_Tarea\obj\Debug\Proyecto_Tarea.csproj.GenerateResource.cache
+C:\Users\Mario Josue CR\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Git Proyecto\Proyecto_Tarea\Proyecto_Tarea\obj\Debug\Proyecto_Tarea.csproj.CoreCompileInputs.cache
+C:\Users\Mario Josue CR\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Git Proyecto\Proyecto_Tarea\Proyecto_Tarea\bin\Debug\Proyecto_Tarea.exe.config
+C:\Users\Mario Josue CR\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Git Proyecto\Proyecto_Tarea\Proyecto_Tarea\bin\Debug\Proyecto_Tarea.exe
+C:\Users\Mario Josue CR\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Git Proyecto\Proyecto_Tarea\Proyecto_Tarea\bin\Debug\Proyecto_Tarea.pdb
+C:\Users\Mario Josue CR\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Git Proyecto\Proyecto_Tarea\Proyecto_Tarea\obj\Debug\Proyecto_Tarea.exe
+C:\Users\Mario Josue CR\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Git Proyecto\Proyecto_Tarea\Proyecto_Tarea\obj\Debug\Proyecto_Tarea.pdb
